@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-chat": "/uni_modules/uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "lb-tabbar": "/components/lb-tabbar/lb-tabbar",
+    "lb-tabbar-item": "/components/lb-tabbar/lb-tabbar-item"
+  }
+}

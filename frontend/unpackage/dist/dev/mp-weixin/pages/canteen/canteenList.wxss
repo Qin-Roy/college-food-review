@@ -1,0 +1,6 @@
+
+.btn {
+	background: #FFC837;
+	margin: 30rpx 10rpx;
+}
+

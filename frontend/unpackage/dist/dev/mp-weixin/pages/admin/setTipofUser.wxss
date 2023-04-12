@@ -1,0 +1,19 @@
+
+.info {
+	white-space: normal;
+	word-break: break-word;
+	word-warp: break-word;
+}
+.picture {
+	width: 200px;
+	height: 200px;
+	background-color: #eeeeee;
+}
+.myButton {
+	margin-top: 50rpx;
+}
+.btn {
+	background: #FFC837;
+	margin: 10rpx auto;
+}
+

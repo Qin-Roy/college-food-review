@@ -1,0 +1,1 @@
+<view class="login"><image class="logo" src="../../static/logo.png"></image><view class="text-area"><text class="nickname">{{nickname}}</text></view><button data-event-opts="{{[['tap',[['login',['$event']]]]]}}" class="myButton" bindtap="__e">微信授权一键登录</button></view>

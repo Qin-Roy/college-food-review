@@ -1,0 +1,36 @@
+
+.buttons {
+		margin-top: 50rpx;
+}
+.btn {
+		background: #FFC837;
+		margin: 50rpx 10rpx;
+}
+	
+	/* 	.btn { */
+	
+	/* background-color: ##FFbd49; */
+	
+	/* 		margin: 5vh auto;
+		display: block;
+		background-image: linear-gradient(to right, #FFbd49 0%, #FFbd49 100%); */
+	
+	/* text-align: center;
+		text-transform: uppercase;
+		transition: 0.5s;
+		background-size: 200% auto;
+		color: white; 
+ 		box-shadow: 0 0 20px #eee;
+		border-radius: 10px;
+		display: block; */
+	
+	/* 	} */
+	
+	/* .btn:hover {
+		background-position: right center;
+		/* change the direction of the change here */
+	
+	/* 	color: #fff;
+		text-decoration: none;
+	} */
+

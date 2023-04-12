@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "管理员管理",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "lb-tabbar": "/components/lb-tabbar/lb-tabbar",
+    "lb-tabbar-item": "/components/lb-tabbar/lb-tabbar-item"
+  }
+}

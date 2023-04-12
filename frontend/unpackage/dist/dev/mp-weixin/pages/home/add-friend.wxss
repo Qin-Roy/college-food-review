@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  background-color: aliceblue;
+}
+.headphoto {
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  margin-bottom: 40rpx;
+}
+.addfriend {
+  padding: 15px;
+  background-color: #fff;
+}
+.form-item {
+  display: flex;
+  align-items: center;
+}
+.button {
+  display: flex;
+  align-items: center;
+  height: 35px;
+  margin-left: 10px;
+}
+.num {
+  text-align: right;
+  color: gray;
+}
+

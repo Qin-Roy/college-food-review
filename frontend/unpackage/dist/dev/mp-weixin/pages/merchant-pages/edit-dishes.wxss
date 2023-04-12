@@ -1,0 +1,30 @@
+
+.myButton {
+	width: 90vw;
+	margin: 1vh auto;
+	background-image: linear-gradient(to right, #FF8008 0%, #FFC837 51%, #FF8008 100%);
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+}
+.myButton:hover {
+	background-position: right center;
+	/* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+}
+.overflow {
+	/* width: 400rpx; */
+	white-space: nowarp;
+	/*强制在一行显示*/
+	over-flow: hidden;
+	/*溢出隐藏*/
+	text-overflow: ellipsip;
+	/*溢出显示省略号*/
+}
+

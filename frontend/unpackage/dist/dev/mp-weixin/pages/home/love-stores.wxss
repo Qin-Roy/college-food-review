@@ -1,0 +1,11 @@
+
+.restaurantTitle {
+	background: #d1d1d1;
+	font-weight: 100;
+	flex-direction: row;
+}
+.box-bg {
+	background-color: #F5F5F5;
+	padding: 5px 0;
+}
+

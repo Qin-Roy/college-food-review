@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-swipe-action": "/uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item"
+  }
+}

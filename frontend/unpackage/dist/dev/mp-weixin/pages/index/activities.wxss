@@ -1,0 +1,30 @@
+
+.info {
+	white-space: normal;
+	word-break: break-word;
+	word-warp: break-word;
+}
+.activityButtonArea{
+	margin-top: 200rpx;
+}
+.activiyButton{
+	background-color:#f0efe0 ;
+}
+.activityName{
+	font-size: 50rpx;
+	font-style: normal;
+	color: #000000;
+	text-align:center
+}
+.activityInfor{
+	padding: 3rpx;
+}
+.activityTime{
+	padding: 3rpx;
+}
+.slideImage{
+	width: 100%;
+	height: 100%;
+}
+
+

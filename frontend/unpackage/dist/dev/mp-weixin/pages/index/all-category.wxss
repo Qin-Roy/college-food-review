@@ -1,0 +1,21 @@
+
+.grid-item-box {
+	flex: 1;
+	/* position: relative; */
+
+	display: flex;
+
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 15px 0;
+}
+.text {
+	font-size: 30rpx;
+}
+.image {
+	width: 130rpx;
+	height: 130rpx;
+	border-radius: 50%;
+}
+

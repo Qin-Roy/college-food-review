@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  background-color: aliceblue;
+}
+.editRemark {
+  padding: 15px;
+  background-color: #fff;
+}
+.form-item {
+  display: flex;
+  align-items: center;
+}
+.button {
+  display: flex;
+  align-items: center;
+  height: 35px;
+  margin-left: 10px;
+}
+.num {
+  text-align: right;
+  color: gray;
+}
+

@@ -1,0 +1,6 @@
+
+.text{
+	display: flex;
+	margin: auto auto;
+}
+

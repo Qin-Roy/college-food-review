@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-group": "/uni_modules/uni-group/components/uni-group/uni-group",
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

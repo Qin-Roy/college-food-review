@@ -1,0 +1,11 @@
+
+.form {
+	margin-top: 50rpx;
+}
+.myButtonArea {
+	margin-top: 200rpx;
+}
+.myButton {
+	background: #FFC837;
+}
+

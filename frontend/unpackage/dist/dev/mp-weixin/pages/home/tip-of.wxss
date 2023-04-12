@@ -1,0 +1,36 @@
+
+.selectBotton {
+	size: ;
+}
+.idShow {
+	color: firebrick;
+	margin-left: 50rpx;
+	text-align: center;
+}
+.gonButton {
+	background-image: linear-gradient(to right, #fff795 0%, #ffa947 51%, #ffac82 100%);
+	margin: 10px;
+	padding: 5px 20px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+}
+.gonButtonInform {
+	background-image: linear-gradient(to right, #f4ffb9 0%, #ff7462 51%, #ffb969 100%);
+	margin: 10px;
+	padding: 5px 20px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block
+}
+

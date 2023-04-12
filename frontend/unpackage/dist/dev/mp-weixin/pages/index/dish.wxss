@@ -1,0 +1,25 @@
+
+.swiper {
+	width: 100%;
+	height: 350rpx;
+}
+.frontImage {
+	width: 100%;
+}
+.dishInfo {
+	font-size: 40rpx;
+}
+.dishName {
+	width: 80%;
+}
+.price {
+	width: 20%;
+	font-size: 35rpx;
+}
+.introduction {
+	font-size: 25rpx;
+}
+.comment {
+	word-break: break-all;
+}
+

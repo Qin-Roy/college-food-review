@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "comment-input": "/uni_modules/qizai9527-input-comment/components/commentInput/commentInput",
+    "lb-tabbar": "/components/lb-tabbar/lb-tabbar",
+    "lb-tabbar-item": "/components/lb-tabbar/lb-tabbar-item"
+  }
+}

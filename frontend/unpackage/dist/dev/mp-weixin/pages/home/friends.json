@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "uni-popup-message": "/uni_modules/uni-popup/components/uni-popup-message/uni-popup-message",
+    "uni-popup-dialog": "/uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-chat": "/uni_modules/uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-swipe-action": "/uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item"
+  }
+}

@@ -1,0 +1,34 @@
+
+page {
+	background-image: linear-gradient(to right bottom, #fee140, #ffda41, #ffd342, #ffcd44, #ffc646, #ffc049, #ffba4c, #ffb44f, #ffae54, #ffa759, #ffa25e, #ff9c63);
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+}
+.title {
+	margin-top:50rpx;
+	padding-top: 30rpx;
+	font-size: 40rpx;
+	font-weight: bold;
+	text-align: center;
+}
+.friendmoment {
+	margin: 30rpx;
+}
+.card-actions-item-text {
+	font-size: 30rpx;
+}
+.overtext {
+	color: #ffaaed;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	/* 超出部分省略号 */
+	display: -webkit-box;
+	/** 对象作为伸缩盒子模型显示 **/
+	-webkit-box-orient: vertical;
+	/** 设置或检索伸缩盒对象的子元素的排列方式 **/
+	-webkit-line-clamp: 1;
+	/** 显示的行数 **/
+}
+

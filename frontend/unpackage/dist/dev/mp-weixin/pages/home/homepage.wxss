@@ -1,0 +1,154 @@
+
+.homePage {
+	background: #f6f6f6;
+}
+.header {
+	padding-top: 60rpx;
+	max-width: 100%;
+	height: 430rpx;
+	background-size: cover;
+	border-bottom-left-radius: 40rpx;
+	border-bottom-right-radius: 40rpx;
+	background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+.head1 {
+	width: 100%;
+	height: 100rpx;
+	display: flex;
+	align-items: center;
+}
+.back {
+	width: 60rpx;
+	height: 60rpx;
+	padding-left: 20rpx;
+}
+.head2 {
+	height: 300rpx;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	padding-top: 20rpx;
+}
+.head2-headphoto {
+	width: 30%;
+	height: 300rpx;
+	padding-left: 40rpx;
+}
+.headphoto {
+	width: 180rpx;
+	height: 180rpx;
+	border-radius: 50%;
+	border: 3px solid #fff;
+}
+.head2-info {
+	font-size: 30rpx;
+	width: 70%;
+	height: 300rpx;
+}
+.head2-info-top {
+	height: 30%;
+	width: 100%;
+	display: flex;
+	padding-left: 40rpx;
+	padding-top: 40rpx;
+}
+.follow {
+	width: 27%;
+	text-align: center;
+	align-items: center;
+}
+.fans {
+	width: 27%;
+	text-align: center;
+	align-items: center;
+}
+.favouredStore {
+	width: 27%;
+	text-align: center;
+	align-items: center;
+}
+.signature {
+	padding-right: 50rpx;
+	padding-left: 50rpx;
+	padding-top: 20rpx;
+}
+.change-info {
+	border-radius: 10%;
+	width: 45vw;
+	font-size: 30rpx;
+}
+.pointBox {
+	width: 94%;
+	height: 160rpx;
+	margin: 0 3%;
+	background: #f6feff;
+	border-radius: 40rpx;
+	/* border: 2px solid #ffffff; */
+	margin-top: -35rpx;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
+.friends {
+	width: 33%;
+}
+.guanzhu {
+	width: 33%;
+}
+.jubao {
+	width: 33%;
+}
+.buttonnew {
+	align-items: center;
+	border-radius: 10%;
+	font-size: 30rpx;
+	width: 25vw;
+	height: 12vw;
+	border: 2px solid #fff;
+}
+.ban {
+	color: red;
+	font-size: 40rpx;
+	width: 94%;
+	height: 120rpx;
+	margin: 0 3%;
+	background: #f6feff;
+	border-radius: 40rpx;
+	border: 2px solid #ffffff;
+	margin-top: -35rpx;
+	text-align: center;
+	padding-top: 60rpx;
+}
+.ban_TA {
+	font-size: 30rpx;
+	padding-right: 50rpx;
+	padding-left: 50rpx;
+	padding-top: 20rpx;
+	color: red;
+}
+.remark {
+	margin: 0 3%;
+	background: #ffffff;
+	border-radius: 40rpx;
+	border: 2px solid #fff;
+	padding: 20rpx;
+}
+.comment {
+	word-break: break-all;
+}
+.overtext {
+	color: #ffaaed;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	/* 超出部分省略号 */
+	display: -webkit-box;
+	/** 对象作为伸缩盒子模型显示 **/
+	-webkit-box-orient: vertical;
+	/** 设置或检索伸缩盒对象的子元素的排列方式 **/
+	-webkit-line-clamp: 1;
+	/** 显示的行数 **/
+}
+

@@ -1,0 +1,1 @@
+.form{margin-top:50rpx}.myButton{width:90vw;margin:1vh auto;background-image:linear-gradient(90deg,#ff8008 0,#ffc837 51%,#ff8008);text-align:center;text-transform:uppercase;transition:.5s;background-size:200% auto;color:#fff;box-shadow:0 0 20px #eee;border-radius:10px;display:block}.myButton:hover{background-position:100%;color:#fff;text-decoration:none}

@@ -1,0 +1,11 @@
+
+button.submit {
+	text-align: center;
+	width: 35vw;
+	margin: 5vh auto;
+}
+.gonButtonInform {
+	background-color: #FFC837;
+	/* background-color: #47b6ff; */
+}
+

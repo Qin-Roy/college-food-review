@@ -1,0 +1,1 @@
+.container{background-color:#f0f8ff}.editRemark{padding:15px;background-color:#fff}.form-item{display:flex;align-items:center}.button{display:flex;align-items:center;height:35px;margin-left:10px}.num{text-align:right;color:grey}
